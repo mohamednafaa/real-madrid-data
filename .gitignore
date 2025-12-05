@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+env/
+
+# Node (pour le frontend)
+node_modules/
+
+# OS
+.DS_Store
+
+# Env files
+.env
+*.env
+
+# Build / compiled
+dist/
+build/
